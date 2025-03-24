@@ -1,0 +1,14 @@
+node ace serve --watch
+npm i @adonisjs/lucid
+node ace configure @adonisjs/lucid
+
+node ace make:model Nome-do-modelo -m
+node ace migration:run
+node ace make:controller Moment
+
+node ace list:routes
+npm i uuid
+node ace make:model Comment -m
+
+
+extensão: sqlite viewer
