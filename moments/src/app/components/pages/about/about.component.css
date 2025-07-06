@@ -1,0 +1,54 @@
+.about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  color: #4F4F4F;
+  line-height: 1.8;
+}
+
+.about h2 {
+  font-size: 2rem;
+  color: #A65E5E;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.about > p, .frase blockquote { text-align: center; }
+
+.about h3 {
+  color: #C38E8E;
+  margin-top: 2rem;
+  font-weight: 600;
+}
+
+.about p,
+.about li {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.about ol { padding-left: 1.5rem; }
+
+.about blockquote {
+  margin-top: 2rem;
+  font-style: italic;
+  color: #777;
+  padding-left: 1rem;
+}
+
+.about .cta {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.about .cta a.button {
+  background-color: #E3A298; /* terracota suave */
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+
+  &:hover { background-color: #cf7972; }
+}

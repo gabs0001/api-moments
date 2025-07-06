@@ -1,0 +1,18 @@
+footer {
+    background-color: #ded6d1;
+    /* border-top: 1px solid rgba(222, 193, 41, .4); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+footer h3 {
+    margin-bottom: 1.2em;
+}
+
+footer span {
+    font-weight: bold;
+    color: #dec129;
+}
