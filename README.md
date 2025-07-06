@@ -35,7 +35,7 @@ A ideia é criar um espaço afetivo e organizado para guardar lembranças e perm
 ### 📂 Estrutura do projeto
 
 ```bash
-moments-project/
+api__moments/
 ├── moments/
 └── api-restful/
 ```
