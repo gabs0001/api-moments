@@ -1,7 +1,0 @@
-ng new nome-do-projeto
-ng serve
-ng generate component components/nome-do-componente
-ng generate service services/moment
-ng add @fortawesome/angular-fontawesome
-
-C:\Users\gabri\Documents
