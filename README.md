@@ -72,6 +72,5 @@ Este projeto foi desenvolvido por **Gabriel** com o intuito de praticar linguage
 
 ✅ Backend funcional  
 ✅ Frontend com navegação e estilos suaves  
-📌 Em progresso: deploy na Vercel e integração com serviço externo para a API
 
 ---
