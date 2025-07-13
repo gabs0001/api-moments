@@ -64,7 +64,7 @@ A API estará disponível em: [http://localhost:3333](http://localhost:3333)
 
 ## 📘 Sobre
 
-Este projeto foi desenvolvido por **Gabriel** com o intuito de praticar linguagens, conceitos e ferramentas do desenvolvimento Front-End/Full-Stack. A proposta é registrar momentos que marcaram a vida, promover conexão emocional e criar uma cápsula digital de lembranças.
+Este projeto foi desenvolvido por **Mim** com o intuito de praticar linguagens, conceitos e ferramentas do desenvolvimento Front-End/Full-Stack. A proposta é registrar momentos que marcaram a vida, promover conexão emocional e criar uma cápsula digital de lembranças.
 
 ---
 
